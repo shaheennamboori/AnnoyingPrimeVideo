@@ -7,13 +7,13 @@ This extension enhances your Prime Video viewing experience by removing intrusiv
 <h2>After:</h2>
 <img src="https://github.com/user-attachments/assets/0c9b97c6-f20e-4528-9b46-37078a141ba3" />
 <h2>Installation:</h2>
-Option 1: Install .crx file (DO THE OPTION 2, since chrome only allows published extensions)
+(DO THE OPTION 2 for now, since chrome only allows published extensions)
 <ol>
-<li>Download the extension from the release page. <a href="https://github.com/shaheennamboori/AnnoyingPrimeVideo/releases/download/v1/AnnoyingPrimeVideo.crx">Release</a></li>
+<li><s>Download the extension from the release page. <a href="https://github.com/shaheennamboori/AnnoyingPrimeVideo/releases/download/v1/AnnoyingPrimeVideo.crx">Release</a></li>
 <li>Open the Chrome Extensions page by typing chrome://extensions/ in the address bar.</li>
 <li>Enable Developer Mode (toggle switch in the top-right corner).</li>
 <li>Drag and drop the downloaded .crx file into the Chrome Extensions page.</li>
-<li>Confirm the installation.</li>
+<li>Confirm the installation.</li></s>
 </ol>
 <BR><BR>
 OR
